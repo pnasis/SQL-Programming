@@ -131,4 +131,12 @@ where t.Name like 'C%';
 
 -- 15. Invoices that only have tracks that belong to an album that contains the word 'Greatest'
 -- in the title. [all invoice details]
-
+select *
+from Invoice i 
+where i.InvoiceId not in (select InvoiceId
+			  from InvoiceLine il 
+		          where il.TrackId in (select t.TrackId 
+	                                       from Track t 
+	                                       where t.AlbumId not in (select a.AlbumId
+				                                       from Album a
+								       where a.Title like '%Greatest%')));
