@@ -5,7 +5,7 @@ Contents:
 1)The Data Base dump file (chinookdump.sql). This database has data about a series of cds.
 2)The answers(queries_answers.sql)
 
-!NOTE: Query 13 is not answered!
+**NOTE: Query 13 is not answered**
 
 The expected results for every query are:
 1: 15 rows
