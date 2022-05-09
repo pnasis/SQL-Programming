@@ -7,7 +7,7 @@ Contents:
 
 **NOTE: Query 13 is not answered!**
 
-The expected results for every query are:
+The expected results for every query are: \
 1: 15 rows
 2: 14 rows
 3: 25 rows
