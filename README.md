@@ -8,18 +8,18 @@ Contents:
 **NOTE: Query 13 is not answered!**
 
 The expected results for every query are: \
-1: 15 rows
-2: 14 rows
-3: 25 rows
-4: 8 rows
-5: 11 rows
-6: 2 rows
-7: 1 row
-8: 4 rows
-9: 1 row
-10: 2 rows
-11: 4 rows
-12: 62 rows
-13: 14 rows
-14: 209 rows
+1: 15 rows \
+2: 14 rows \
+3: 25 rows \
+4: 8 rows \
+5: 11 rows \
+6: 2 rows \
+7: 1 row \
+8: 4 rows \
+9: 1 row \
+10: 2 rows \
+11: 4 rows \
+12: 62 rows \
+13: 14 rows \
+14: 209 rows \
 15: 10 rows
